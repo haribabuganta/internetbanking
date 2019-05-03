@@ -8,6 +8,7 @@ public class RetailbankApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RetailbankApplication.class, args);
+		System.out.println("test");
 	}
 
 }
